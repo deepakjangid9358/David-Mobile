@@ -1,0 +1,8 @@
+{
+  "name": "Mobile Shop Stock & Sales Manager",
+  "description": "Stock management and sales billing system for David Mobile (displays/combos, keypad phones, accessories) with global search, Excel export, and Google Drive cloud backup & restore.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
